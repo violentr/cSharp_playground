@@ -49,6 +49,12 @@ namespace CSharpFundamentals
             {
                 Console.WriteLine("Good evening");
             }
+
+            /* Loops */
+            const int count = 7;
+            var list = new int[count] { 1, 2, 3, 4, 5, 6, 7 };
+            Utilities.myForLoop(list);
+            Utilities.myForEachLoop(list);
         }
         
     }
