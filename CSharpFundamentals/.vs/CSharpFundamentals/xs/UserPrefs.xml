@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7191403E-7D54-42F2-96B6-AEC5A0F1F035}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpFundamentals/EmptyEnumeration.cs">
+    <Files>
+      <File FileName="CSharpFundamentals/Program.cs" Line="41" Column="67" />
+      <File FileName="CSharpFundamentals/Person.cs" Line="16" Column="1" />
+      <File FileName="CSharpFundamentals/EmptyEnumeration.cs" Line="4" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpFundamentals" expanded="True">
+            <Node name="CSharpFundamentals" expanded="True">
+              <Node name="EmptyEnumeration.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharpFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
